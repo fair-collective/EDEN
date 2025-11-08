@@ -1,0 +1,17 @@
+eden/
+├── core/
+│   ├── eden.py               ← AI Core (Empowerment + Geo)
+│   ├── contract.py           ← Flexible Family Contract
+│   ├── lifeline.py           ← 3CX + Emergency
+│   ├── guardian.py           ← Abuse + Crisis Proxy
+│   ├── geo_sage.py           ← GPS + Lost Child
+│   └── translator.py         ← 100+ Languages
+├── frontend/
+│   ├── setup_app/            ← Tauri: Single/Dual Parent Form
+│   └── child_app/            ← Strength-Building UI
+├── voice/
+│   └── eden_voice.py         ← Proxy + Warm Speech
+├── ethics/
+│   └── conscience.txt        ← 21 Precepts
+├── README.md
+└── requirements.txt
