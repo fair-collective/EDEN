@@ -1,0 +1,9 @@
+# 1. Final update
+git add .
+git commit -m "feat: v1.3 — Flexible Family, Strength-Building, Geo-Safe"
+
+# 2. Push
+git push
+
+# 3. Release
+gh release create v1.3 --title "v1.3 — Strength, Safety, Freedom" --notes "EDEN builds heroes."
